@@ -24,6 +24,7 @@
 #include "malloc2.h"
 #include "log.h"
 #include "buf.h"
+#include "yfile.h"
 
 #define DEFAULT_REGION_FLUSH_CHECK_INTERVAL 600 //10min
 
